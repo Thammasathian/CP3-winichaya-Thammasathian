@@ -1,11 +1,11 @@
 #Foundation English
-FE = float(input("score:"))
+FE = float(80)
 #General Business
-GB = float(input("score:"))
+GB = float(70)
 #Introduction to Computer Systems
-IS = float(input("score:"))
+IS = float(50)
 #Computer Programming
-CP = float(input("score:"))
+CP = float(70)
 
 print("Foundation English:",FE,"score" )
 print("General Business:",GB,"score")
