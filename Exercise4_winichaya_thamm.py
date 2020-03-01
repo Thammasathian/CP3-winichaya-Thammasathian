@@ -1,7 +1,7 @@
 #Foundation English
-FE = float(80)
+FE = float(input())
 #General Business
-GB = float(70)
+GB = float(input())
 #Introduction to Computer Systems
 IS = float(50)
 #Computer Programming
